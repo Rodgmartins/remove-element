@@ -1,0 +1,8 @@
+site_name: Remove Element
+repo_url: https://github.com/Rodgmartins/remove-element
+repo_name: Rodgmartins/remove-element
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
